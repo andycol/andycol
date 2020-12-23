@@ -1,4 +1,4 @@
-### Hi there 👋
+<img-src>https://www.reactiongifs.com/r/2013/10/tim-and-eric-mind-blown.gif</img-src>
 
 <!--
 **andycol/andycol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
