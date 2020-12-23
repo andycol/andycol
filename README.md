@@ -1,4 +1,4 @@
-<img src="https://www.reactiongifs.com/r/2013/10/tim-and-eric-mind-blown.gif"><img src="https://steamuserimagesa.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/">
+<img src="https://www.reactiongifs.com/r/2013/10/tim-and-eric-mind-blown.gif"><img src="https://i.imgur.com/pzw4C8l.gif">
 
 <!--
 **andycol/andycol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
